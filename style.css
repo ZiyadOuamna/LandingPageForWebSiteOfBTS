@@ -427,7 +427,7 @@
 
 }
 body{
-    background-image:linear-gradient(rgba(0, 0, 139, 0.475),rgba(0, 0, 139, 0.475) ),url('/photo/A-new-way-to-measure-graduate-success.jpg');
+    background-image:linear-gradient(rgba(0, 0, 139, 0.475),rgba(0, 0, 139, 0.475) ),url('A-new-way-to-measure-graduate-success.jpg');
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
